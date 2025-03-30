@@ -1,4 +1,5 @@
 {
+    "TEST": "true",
     "AndroidEnableBinaryChannels": "true",
     "DFFlagConsumePlatformNameOverAlternateName": false,
     "DFFlagDebugEnableRemoteProfiling2": true,
