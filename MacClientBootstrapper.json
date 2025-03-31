@@ -245,8 +245,8 @@
     "FFlagEnableDeepLinkUseExistingClient": true,
     "FFlagEnableSingleInstanceRobloxClient": true,
     "FFlagMacInstallerMoveExistingAppBeforeDelete2": true,
-    "FStringFlagRepoGitHashFastString": "c411eed107984396efa23ac38c04a61ef21c1cfe",
-    "DFStringFlagRepoGitHashDynamicString": "c411eed107984396efa23ac38c04a61ef21c1cfe",
-    "FStringFlipTimeStampFastString": "2025-03-31T21:58:06.807Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-31T21:58:06.807Z"
+    "FStringFlagRepoGitHashFastString": "9bc25bbcc0a9ef60d49fd6cd28b7efd913fa7541",
+    "DFStringFlagRepoGitHashDynamicString": "9bc25bbcc0a9ef60d49fd6cd28b7efd913fa7541",
+    "FStringFlipTimeStampFastString": "2025-03-31T23:06:02.981Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-31T23:06:02.981Z"
 }
