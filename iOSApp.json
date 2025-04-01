@@ -11187,11 +11187,11 @@
     "DFFlagPathfindingQueryFilterAddFromTo": true,
     "FFlagLuauSyntheticErrors": true,
     "DFFlagTexturePacksWaitingUseColorMapFallback": true,
-    "FFlagRibbonTabOverflowMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T18:20:23",
     "FFlagReportEnrollmentStateChanges": true,
     "FFlagUISystemSupportStyling2": true,
-    "DFFlagViewInitializedWebLaunch_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T18:54:47",
     "FFlagValidateFullShoesBundleStudio_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T19:01:08",
+    "FFlagDevEnableAppNavIXP2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T19:13:47",
+    "DFFlagViewInitializedWebLaunch": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11873,8 +11873,8 @@
     "FFlagFCEnableSkinningExtraction_IXP": "1;Portal.FFlagFCEnableSkinningExtraction-002;FFlagFCEnableSkinningExtraction-002;216070849;flagbank",
     "FFlagProfileQRCodeCameraDeeplinkedLogging_v2": true,
     "FFlagAXEnableRecolorableBodiesDuringTryOn": true,
-    "FStringFlagRepoGitHashFastString": "86cd170145bb183c5c67099665fa8f254f77a403",
-    "DFStringFlagRepoGitHashDynamicString": "86cd170145bb183c5c67099665fa8f254f77a403",
-    "FStringFlipTimeStampFastString": "2025-04-01T19:03:51.593Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-01T19:03:51.593Z"
+    "FStringFlagRepoGitHashFastString": "56a13ea292dd78d5a36243ada26c9453c0414ccc",
+    "DFStringFlagRepoGitHashDynamicString": "56a13ea292dd78d5a36243ada26c9453c0414ccc",
+    "FStringFlipTimeStampFastString": "2025-04-01T19:59:16.064Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-01T19:59:16.064Z"
 }

@@ -11187,11 +11187,11 @@
     "DFFlagPathfindingQueryFilterAddFromTo": true,
     "FFlagLuauSyntheticErrors": true,
     "DFFlagTexturePacksWaitingUseColorMapFallback": true,
-    "FFlagRibbonTabOverflowMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T18:20:23",
     "FFlagReportEnrollmentStateChanges": true,
     "FFlagUISystemSupportStyling2": true,
-    "DFFlagViewInitializedWebLaunch_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T18:54:47",
     "FFlagValidateFullShoesBundleStudio_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T19:01:08",
+    "FFlagDevEnableAppNavIXP2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T19:13:47",
+    "DFFlagViewInitializedWebLaunch": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11909,8 +11909,9 @@
     "FFlagFriendsCarouselRemoveRemount": true,
     "EnableUseRoomDBForLoggingExperiment2": true,
     "NativeAdsProtocolDisconnectOnLeave": "true",
-    "FStringFlagRepoGitHashFastString": "86cd170145bb183c5c67099665fa8f254f77a403",
-    "DFStringFlagRepoGitHashDynamicString": "86cd170145bb183c5c67099665fa8f254f77a403",
-    "FStringFlipTimeStampFastString": "2025-04-01T19:03:51.593Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-01T19:03:51.593Z"
+    "FFlagFixAudibleSoundDetectionPerformance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-01T19:57:38",
+    "FStringFlagRepoGitHashFastString": "9c47b37c5c61ef13821dd4ddc42ca4d67b668655",
+    "DFStringFlagRepoGitHashDynamicString": "9c47b37c5c61ef13821dd4ddc42ca4d67b668655",
+    "FStringFlipTimeStampFastString": "2025-04-01T19:57:48.059Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-01T19:57:48.059Z"
 }
