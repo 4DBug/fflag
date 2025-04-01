@@ -11177,6 +11177,8 @@
     "FFlagWindowsTTIReportShortcutLaunchDuration2": true,
     "FFlagAppendBodyPartToTitle": true,
     "FFlagFixPublishAvatarVRViewports": true,
+    "FFlagFixRigidSubskinnedToIc_Staged": "true;SteadyState;10;60;Revert;2025-04-01T16:04:40",
+    "FFlagFixRigidSubskinnedToIc_IXP": "1;Portal.FFlagFixRigidSubskinnedToIc-002;FFlagFixRigidSubskinnedToIc-002;1895710664;flagbank",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11399,8 +11401,8 @@
     "FFlagMicroProfilerUsageTelemetry": true,
     "FFlagEnableLuaAppsShareLinksPackages_v4": true,
     "FFlagAXEnableRecolorableBodiesDuringTryOn": true,
-    "FStringFlagRepoGitHashFastString": "1c2602e14269e4ee2d62227c2cc080d1e1d5b42e",
-    "DFStringFlagRepoGitHashDynamicString": "1c2602e14269e4ee2d62227c2cc080d1e1d5b42e",
-    "FStringFlipTimeStampFastString": "2025-04-01T00:26:09.544Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-01T00:26:09.544Z"
+    "FStringFlagRepoGitHashFastString": "176c2fd8e6a3910e0e4fddfef51b9f820ffc5aae",
+    "DFStringFlagRepoGitHashDynamicString": "176c2fd8e6a3910e0e4fddfef51b9f820ffc5aae",
+    "FStringFlipTimeStampFastString": "2025-04-01T16:05:53.935Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-01T16:05:53.935Z"
 }

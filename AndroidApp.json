@@ -11177,6 +11177,7 @@
     "FFlagWindowsTTIReportShortcutLaunchDuration2": true,
     "FFlagAppendBodyPartToTitle": true,
     "FFlagFixPublishAvatarVRViewports": true,
+    "FFlagFixRigidSubskinnedToIc_Staged": "true;SteadyState;10;60;Revert;2025-04-01T16:04:40",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
